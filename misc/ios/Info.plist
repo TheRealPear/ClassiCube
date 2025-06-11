@@ -22,6 +22,8 @@
 	<false/>
 	<key>LSApplicationCategoryType</key>
 	<string>public.app-category.games</string>
+	<key>GCSupportsGameMode</key>
+	<true/>
 	<key>NSPhotoLibraryAddUsageDescription</key>
 	<string>Saving screenshot</string>
 	<key>UILaunchStoryboardName</key>
